@@ -7,6 +7,15 @@ author_profile: true
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  {% if site.author.researchgate %} and
+  <a href="{{site.author.researchgate}}">ResearchGate</a>
+  {% endif %}.
+</div>
+{% elsif site.author.researchgate %}
+<div class="wordwrap">
+  You can also find my articles on
+  <a href="{{site.author.researchgate}}">ResearchGate</a>.
+</div>
 {% endif %}
 
 {% include base_path %}
