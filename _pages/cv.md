@@ -36,11 +36,6 @@ Work experience
 Skills
 ======
 * Programming languages (Python and C++)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -54,19 +49,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-* Oral presentation
-  IcAUMS 2025, Apr. 2025
-
-  Intermag 2023, May. 2023
-
-  The 70th JSAP Spring Meeting 2023, Mar. 2023
-
-  TDA-MI workshop, Dec. 2022
-
-* Poster presentation
-
-  TDA week 2023, Aug. 2023
-
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
@@ -78,7 +60,7 @@ Service and leadership
 ======
 **Reconstruction Activities in Response to the Great East Japan Earthquake, Dec. 2012**
 
-I engaged in the volunteer activities of a football club that hosted elementary school students from regions impacted by the Great East Japan Earthquake. I contributed to the reconstruction efforts by coordinating football matches and arranging homestay accommodations for the visiting students.
+I engaged in the volunteer activities of a football club that hosted elementary school students from regions impacted by the Great East Japan Earthquake. I contributed to the reconstruction efforts by coordinating football matches and arranging homestay accommodations for the students.
 
 Scholarship
 ======
