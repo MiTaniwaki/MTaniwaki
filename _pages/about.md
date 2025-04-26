@@ -16,19 +16,3 @@ Outside of research, I enjoy watching football, competitive programming, and lea
 One of my important values is learning to view everything from diverse perspectives. I’ve often felt stuck when overly focusing narrowly or viewing a problem from only a single angle. I believe that broadening our perspectives helps us find more meaningful insights and creative solutions. I also value having a sense of purpose: having even a single clear goal can clarify what matters most, help us identify challenges, and guide us toward the next steps. (Of course, I also enjoy the fun of spontaneous adventures and sightseeing). Another priority for me is understanding myself. When I feel stuck or anxious, I try to observe my own thoughts and situation. I’ve found that self-awareness can be a key to moving forward.
 
 My research takes an interdisciplinary approach. One of my strengths is integrating knowledge from various fields—such as ML and topological data analysis (TDA)—to explore physical systems from new angles. My long-term dream is to continue doing research even after retirement. That’s why I aim to understand my field deeply and from as many angles as possible. Although I expect to face challenges along the way, I’m confident I can face them with the support of my friends, mentors, and my family—who have always been my greatest source of encouragement.
-
-
-???
-======
-
-????
-======
-1. aaa
-
-**???**
-
-The repository includes [displayed words](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator)
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
