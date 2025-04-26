@@ -8,7 +8,7 @@ date: 2024-11-03
 venue: 'Research Square (Preprint)'
 paperurl: 'https://www.researchsquare.com/article/rs-5383617/v1'
 doi: 'https://dx.doi.org/10.21203/rs.3.rs-5383617/v1'
-citation: 'Taniwaki, M., Nagaoka, R., Masuzawa, K., Sato, S., Foggiatto, A. L., Mitsumata, C., Yamazaki, T., Obayashi, I., Hiraoka, Y., Igarashi, Y., Mizutori, Y., Sepehri-Amin, H., Ohkubo, T., Mogi, H., & Kotsugi, M. (2024). "Automated Identification of the Origin of Energy Loss in Non-Oriented Electrical Steel by Feature-Extended Ginzburg–Landau Free-Energy Framework." Research Square. https://doi.org/10.21203/rs.3.rs-5383617/v1'
+citation: '<strong>Taniwaki, M.</strong>, Nagaoka, R., Masuzawa, K., Sato, S., Foggiatto, A. L., Mitsumata, C., Yamazaki, T., Obayashi, I., Hiraoka, Y., Igarashi, Y., Mizutori, Y., Sepehri-Amin, H., Ohkubo, T., Mogi, H., & Kotsugi, M. (2024). "Automated Identification of the Origin of Energy Loss in Non-Oriented Electrical Steel by Feature-Extended Ginzburg–Landau Free-Energy Framework." Research Square. https://doi.org/10.21203/rs.3.rs-5383617/v1'
 ---
 
 This preprint presents an interpretable, physics-informed machine learning framework based on a **feature-extended Ginzburg–Landau free-energy model** for analyzing energy loss mechanisms in **non-oriented electrical steel**.
