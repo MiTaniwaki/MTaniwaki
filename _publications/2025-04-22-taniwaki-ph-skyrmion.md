@@ -9,7 +9,7 @@ venue: 'arXiv:2504.14688 [cond-mat.stat-mech]'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2504.14688'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Taniwaki, M., Winkler, T. B., Rothörl, J., Gruber, R., Mitsumata, C., Kotsugi, M., & Kläui, M. (2025). "Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices." arXiv:2504.14688.'
+citation: '<strong>Taniwaki, M.</strong>, Winkler, T. B., Rothörl, J., Gruber, R., Mitsumata, C., Kotsugi, M., & Kläui, M. (2025). "Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices." arXiv:2504.14688.'
 
 ---
 **Authors & Affiliations:**
