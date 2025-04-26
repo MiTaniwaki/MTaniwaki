@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate
+
+* Master of Science in Materials Science and Technology, Tokyo University of Science, Tokyo, Japan, 2023-2025
+  Master Thesis: Topological Data Analysis for Configurational Properties in Skrymion lattice systems: Persistent Homology
+
+* Bachelor of Science in Materials Science and Technology, Tokyo University of Science, Tokyo, Japan, 2019-2023
+  Bachelor Thesis: Analysis of Magnetization Reversal Process of Non-Oriented Electrical Steel by Extended Landau Free Energy Model
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Professor Mathias Kläui’s Research Group at the JGU Institute of Physics	03/2024 – 11/2024
+  Topological Data Analysis for Skyrmion lattice
+* Randeft Inc. 2022-2024 
+  Python-based projects that supported data analysis tasks
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
+* Programming languages (Python and C++)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
@@ -52,13 +48,31 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
+* Oral presentation
+  IcAUMS 2025, Apr. 2025
+  Intermag 2023, May. 2023
+  The 70th JSAP Spring Meeting 2023, Mar. 2023
+  TDA-MI workshop, Dec. 2022
+* Poster presentation
+  TDA week 2023, Aug. 2023
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Reconstruction Activities in Response to the Great East Japan Earthquake, Dec. 2012
+I engaged in the volunteer activities of a football club that hosted elementary school students from regions impacted by the Great East Japan Earthquake. I contributed to the reconstruction efforts by coordinating football matches and arranging homestay accommodations for the visiting students.
+
+Scholarship
+======
+The Asahi Glass Foundation,	2023-2025
+Japan Student Services Organization,	2019-2025
+Institutional Scholarships offered by Tokyo University of Science,	2024
+JGC-S(Nikki-Saneyoshi) Scholarship Foundation, 2022-2023
+TCS Scholarship Foundation, 2022-2023
