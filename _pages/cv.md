@@ -64,7 +64,7 @@ I engaged in the volunteer activities of a football club that hosted elementary 
 
 Scholarship
 ======
-The Asahi Glass Foundation,	2023-2025
+The Asahi Glass Foundation,	2024-2025
 
 Japan Student Services Organization,	2019-2025
 
